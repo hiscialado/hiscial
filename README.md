@@ -1,2 +1,2 @@
-# hiscial
+# Hiscial Co.
 Hiscial Website
